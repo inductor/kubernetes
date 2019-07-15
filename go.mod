@@ -35,7 +35,7 @@ require (
 	github.com/containerd/console v0.0.0-20170925154832-84eeaae905fa // indirect
 	github.com/containerd/containerd v1.0.2 // indirect
 	github.com/containerd/typeurl v0.0.0-20190228175220-2a93cfde8c20 // indirect
-	github.com/containernetworking/cni v0.6.0
+	github.com/containernetworking/cni v0.7.1
 	github.com/coreos/etcd v3.3.13+incompatible
 	github.com/coreos/go-semver v0.0.0-20180108230905-e214231b295a
 	github.com/coreos/go-systemd v0.0.0-20180511133405-39ca1b05acc7
