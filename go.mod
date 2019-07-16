@@ -173,7 +173,7 @@ require (
 	k8s.io/cri-api v0.0.0
 	k8s.io/csi-translation-lib v0.0.0
 	k8s.io/gengo v0.0.0-20190116091435-f8a0810f38af
-	k8s.io/heapster v1.2.0-beta.1
+	k8s.io/heapster v1.6.0-beta.1
 	k8s.io/klog v0.3.1
 	k8s.io/kube-aggregator v0.0.0
 	k8s.io/kube-controller-manager v0.0.0
