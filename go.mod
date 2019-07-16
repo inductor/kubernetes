@@ -48,7 +48,7 @@ require (
 	github.com/docker/distribution v0.0.0-20170726174610-edc3ab29cdff
 	github.com/docker/docker v0.7.3-0.20190327010347-be7ac8be2ae0
 	github.com/docker/go-connections v0.3.0
-	github.com/docker/go-units v0.3.3
+	github.com/docker/go-units v0.4.0
 	github.com/docker/libnetwork v0.0.0-20180830151422-a9cd636e3789
 	github.com/elazarl/goproxy v0.0.0-20170405201442-c4fc26588b6e
 	github.com/emicklei/go-restful v0.0.0-20170410110728-ff4f55a20633
