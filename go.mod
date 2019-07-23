@@ -13,7 +13,7 @@ require (
 	github.com/GoogleCloudPlatform/k8s-cloud-provider v0.0.0-20181220005116-f8e995905100
 	github.com/JeffAshton/win_pdh v0.0.0-20161109143554-76bb4ee9f0ab
 	github.com/MakeNowJust/heredoc v0.0.0-20170808103936-bb23615498cd
-	github.com/Microsoft/go-winio v0.4.11
+	github.com/Microsoft/go-winio v0.4.13
 	github.com/Microsoft/hcsshim v0.8.6
 	github.com/PuerkitoBio/purell v1.1.0
 	github.com/Rican7/retry v0.1.0 // indirect
