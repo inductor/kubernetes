@@ -19,7 +19,7 @@ require (
 	github.com/Rican7/retry v0.1.0 // indirect
 	github.com/armon/circbuf v0.0.0-20150827004946-bbbad097214e
 	github.com/auth0/go-jwt-middleware v0.0.0-20170425171159-5493cabe49f7 // indirect
-	github.com/aws/aws-sdk-go v1.16.26
+	github.com/aws/aws-sdk-go v1.23.13
 	github.com/bazelbuild/bazel-gazelle v0.0.0-20181012220611-c728ce9f663e
 	github.com/bazelbuild/buildtools v0.0.0-20180226164855-80c7f0d45d7e
 	github.com/blang/semver v3.5.0+incompatible
