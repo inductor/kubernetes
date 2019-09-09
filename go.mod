@@ -58,7 +58,7 @@ require (
 	github.com/fatih/camelcase v0.0.0-20160318181535-f6a740d52f96
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/go-openapi/loads v0.17.2
-	github.com/go-openapi/spec v0.17.2
+	github.com/go-openapi/spec v0.19.3
 	github.com/go-openapi/strfmt v0.17.0
 	github.com/go-openapi/validate v0.18.0
 	github.com/go-ozzo/ozzo-validation v3.5.0+incompatible // indirect
