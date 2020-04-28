@@ -98,7 +98,7 @@ require (
 	github.com/pkg/errors v0.8.1
 	github.com/pmezard/go-difflib v1.0.0
 	github.com/pquerna/ffjson v0.0.0-20180717144149-af8b230fcd20 // indirect
-	github.com/prometheus/client_golang v1.0.0
+	github.com/prometheus/client_golang v1.6.0
 	github.com/prometheus/client_model v0.1.0
 	github.com/prometheus/common v0.4.1
 	github.com/quobyte/api v0.1.2
