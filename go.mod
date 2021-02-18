@@ -157,7 +157,7 @@ require (
 	k8s.io/kube-scheduler v0.0.0
 	k8s.io/kubectl v0.0.0
 	k8s.io/kubelet v0.0.0
-	k8s.io/legacy-cloud-providers v0.0.0
+	k8s.io/legacy-cloud-providers v0.20.3
 	k8s.io/metrics v0.0.0
 	k8s.io/repo-infra v0.0.1-alpha.1
 	k8s.io/sample-apiserver v0.0.0
